@@ -1,0 +1,577 @@
+Full-time/part-time status,State/territory,School sector,Sex,School level,Indigenous status,Students
+Full-time equivalent,Australian Capital Territory,Catholic,Female,Primary,Indigenous,60
+Full-time equivalent,Australian Capital Territory,Catholic,Female,Primary,Non-Indigenous,4198
+Full-time equivalent,Australian Capital Territory,Catholic,Female,Secondary,Indigenous,61
+Full-time equivalent,Australian Capital Territory,Catholic,Female,Secondary,Non-Indigenous,4205.4
+Full-time equivalent,Australian Capital Territory,Catholic,Male,Primary,Indigenous,54
+Full-time equivalent,Australian Capital Territory,Catholic,Male,Primary,Non-Indigenous,4475
+Full-time equivalent,Australian Capital Territory,Catholic,Male,Secondary,Indigenous,53
+Full-time equivalent,Australian Capital Territory,Catholic,Male,Secondary,Non-Indigenous,4280
+Full-time equivalent,Australian Capital Territory,Government,Female,Primary,Indigenous,322
+Full-time equivalent,Australian Capital Territory,Government,Female,Primary,Non-Indigenous,8855.4
+Full-time equivalent,Australian Capital Territory,Government,Female,Secondary,Indigenous,206
+Full-time equivalent,Australian Capital Territory,Government,Female,Secondary,Non-Indigenous,7476.3
+Full-time equivalent,Australian Capital Territory,Government,Male,Primary,Indigenous,330
+Full-time equivalent,Australian Capital Territory,Government,Male,Primary,Non-Indigenous,9412.8
+Full-time equivalent,Australian Capital Territory,Government,Male,Secondary,Indigenous,222
+Full-time equivalent,Australian Capital Territory,Government,Male,Secondary,Non-Indigenous,7667.6
+Full-time equivalent,Australian Capital Territory,Independent,Female,Primary,Indigenous,10
+Full-time equivalent,Australian Capital Territory,Independent,Female,Primary,Non-Indigenous,1933.5
+Full-time equivalent,Australian Capital Territory,Independent,Female,Secondary,Indigenous,11
+Full-time equivalent,Australian Capital Territory,Independent,Female,Secondary,Non-Indigenous,2329
+Full-time equivalent,Australian Capital Territory,Independent,Male,Primary,Indigenous,11
+Full-time equivalent,Australian Capital Territory,Independent,Male,Primary,Non-Indigenous,1910.4
+Full-time equivalent,Australian Capital Territory,Independent,Male,Secondary,Indigenous,13
+Full-time equivalent,Australian Capital Territory,Independent,Male,Secondary,Non-Indigenous,2270.1
+Full-time equivalent,New South Wales,Catholic,Female,Primary,Indigenous,1471
+Full-time equivalent,New South Wales,Catholic,Female,Primary,Non-Indigenous,59709.2
+Full-time equivalent,New South Wales,Catholic,Female,Secondary,Indigenous,998
+Full-time equivalent,New South Wales,Catholic,Female,Secondary,Non-Indigenous,57499.2
+Full-time equivalent,New South Wales,Catholic,Male,Primary,Indigenous,1444
+Full-time equivalent,New South Wales,Catholic,Male,Primary,Non-Indigenous,61592.5
+Full-time equivalent,New South Wales,Catholic,Male,Secondary,Indigenous,1016
+Full-time equivalent,New South Wales,Catholic,Male,Secondary,Non-Indigenous,57262.2
+Full-time equivalent,New South Wales,Government,Female,Primary,Indigenous,12379
+Full-time equivalent,New South Wales,Government,Female,Primary,Non-Indigenous,196643
+Full-time equivalent,New South Wales,Government,Female,Secondary,Indigenous,8485.4
+Full-time equivalent,New South Wales,Government,Female,Secondary,Non-Indigenous,144290.9
+Full-time equivalent,New South Wales,Government,Male,Primary,Indigenous,13234
+Full-time equivalent,New South Wales,Government,Male,Primary,Non-Indigenous,209804
+Full-time equivalent,New South Wales,Government,Male,Secondary,Indigenous,8749.2
+Full-time equivalent,New South Wales,Government,Male,Secondary,Non-Indigenous,148555.7
+Full-time equivalent,New South Wales,Independent,Female,Primary,Indigenous,358
+Full-time equivalent,New South Wales,Independent,Female,Primary,Non-Indigenous,31265.4
+Full-time equivalent,New South Wales,Independent,Female,Secondary,Indigenous,539.2
+Full-time equivalent,New South Wales,Independent,Female,Secondary,Non-Indigenous,35243.4
+Full-time equivalent,New South Wales,Independent,Male,Primary,Indigenous,341
+Full-time equivalent,New South Wales,Independent,Male,Primary,Non-Indigenous,33069.6
+Full-time equivalent,New South Wales,Independent,Male,Secondary,Indigenous,372.6
+Full-time equivalent,New South Wales,Independent,Male,Secondary,Non-Indigenous,36107.2
+Full-time equivalent,Northern Territory,Catholic,Female,Primary,Indigenous,488
+Full-time equivalent,Northern Territory,Catholic,Female,Primary,Non-Indigenous,930
+Full-time equivalent,Northern Territory,Catholic,Female,Secondary,Indigenous,319
+Full-time equivalent,Northern Territory,Catholic,Female,Secondary,Non-Indigenous,634
+Full-time equivalent,Northern Territory,Catholic,Male,Primary,Indigenous,470
+Full-time equivalent,Northern Territory,Catholic,Male,Primary,Non-Indigenous,901
+Full-time equivalent,Northern Territory,Catholic,Male,Secondary,Indigenous,331
+Full-time equivalent,Northern Territory,Catholic,Male,Secondary,Non-Indigenous,672
+Full-time equivalent,Northern Territory,Government,Female,Primary,Indigenous,4316.9
+Full-time equivalent,Northern Territory,Government,Female,Primary,Non-Indigenous,4625
+Full-time equivalent,Northern Territory,Government,Female,Secondary,Indigenous,1996.2
+Full-time equivalent,Northern Territory,Government,Female,Secondary,Non-Indigenous,3074.9
+Full-time equivalent,Northern Territory,Government,Male,Primary,Indigenous,4561
+Full-time equivalent,Northern Territory,Government,Male,Primary,Non-Indigenous,4977
+Full-time equivalent,Northern Territory,Government,Male,Secondary,Indigenous,2171.1
+Full-time equivalent,Northern Territory,Government,Male,Secondary,Non-Indigenous,3380.2
+Full-time equivalent,Northern Territory,Independent,Female,Primary,Indigenous,174
+Full-time equivalent,Northern Territory,Independent,Female,Primary,Non-Indigenous,1018
+Full-time equivalent,Northern Territory,Independent,Female,Secondary,Indigenous,477.6
+Full-time equivalent,Northern Territory,Independent,Female,Secondary,Non-Indigenous,1122
+Full-time equivalent,Northern Territory,Independent,Male,Primary,Indigenous,187
+Full-time equivalent,Northern Territory,Independent,Male,Primary,Non-Indigenous,970
+Full-time equivalent,Northern Territory,Independent,Male,Secondary,Indigenous,496.5
+Full-time equivalent,Northern Territory,Independent,Male,Secondary,Non-Indigenous,1060
+Full-time equivalent,Queensland,Catholic,Female,Primary,Indigenous,1081
+Full-time equivalent,Queensland,Catholic,Female,Primary,Non-Indigenous,36600.6
+Full-time equivalent,Queensland,Catholic,Female,Secondary,Indigenous,929.7
+Full-time equivalent,Queensland,Catholic,Female,Secondary,Non-Indigenous,26101.3
+Full-time equivalent,Queensland,Catholic,Male,Primary,Indigenous,1116.8
+Full-time equivalent,Queensland,Catholic,Male,Primary,Non-Indigenous,38732.1
+Full-time equivalent,Queensland,Catholic,Male,Secondary,Indigenous,1054
+Full-time equivalent,Queensland,Catholic,Male,Secondary,Non-Indigenous,26184.3
+Full-time equivalent,Queensland,Government,Female,Primary,Indigenous,13421.5
+Full-time equivalent,Queensland,Government,Female,Primary,Non-Indigenous,137308.9
+Full-time equivalent,Queensland,Government,Female,Secondary,Indigenous,6433.1
+Full-time equivalent,Queensland,Government,Female,Secondary,Non-Indigenous,79638.2
+Full-time equivalent,Queensland,Government,Male,Primary,Indigenous,14073.9
+Full-time equivalent,Queensland,Government,Male,Primary,Non-Indigenous,147618.1
+Full-time equivalent,Queensland,Government,Male,Secondary,Indigenous,6633.4
+Full-time equivalent,Queensland,Government,Male,Secondary,Non-Indigenous,82935.6
+Full-time equivalent,Queensland,Independent,Female,Primary,Indigenous,619
+Full-time equivalent,Queensland,Independent,Female,Primary,Non-Indigenous,26189.7
+Full-time equivalent,Queensland,Independent,Female,Secondary,Indigenous,1025
+Full-time equivalent,Queensland,Independent,Female,Secondary,Non-Indigenous,26015.4
+Full-time equivalent,Queensland,Independent,Male,Primary,Indigenous,623
+Full-time equivalent,Queensland,Independent,Male,Primary,Non-Indigenous,26570.2
+Full-time equivalent,Queensland,Independent,Male,Secondary,Indigenous,896
+Full-time equivalent,Queensland,Independent,Male,Secondary,Non-Indigenous,25594
+Full-time equivalent,South Australia,Catholic,Female,Primary,Indigenous,149
+Full-time equivalent,South Australia,Catholic,Female,Primary,Non-Indigenous,13692
+Full-time equivalent,South Australia,Catholic,Female,Secondary,Indigenous,96.1
+Full-time equivalent,South Australia,Catholic,Female,Secondary,Non-Indigenous,9888.7
+Full-time equivalent,South Australia,Catholic,Male,Primary,Indigenous,181
+Full-time equivalent,South Australia,Catholic,Male,Primary,Non-Indigenous,13995.5
+Full-time equivalent,South Australia,Catholic,Male,Secondary,Indigenous,109.4
+Full-time equivalent,South Australia,Catholic,Male,Secondary,Non-Indigenous,9188.4
+Full-time equivalent,South Australia,Government,Female,Primary,Indigenous,2714
+Full-time equivalent,South Australia,Government,Female,Primary,Non-Indigenous,47216.9
+Full-time equivalent,South Australia,Government,Female,Secondary,Indigenous,1411.7
+Full-time equivalent,South Australia,Government,Female,Secondary,Non-Indigenous,29186.2
+Full-time equivalent,South Australia,Government,Male,Primary,Indigenous,2834
+Full-time equivalent,South Australia,Government,Male,Primary,Non-Indigenous,50754.1
+Full-time equivalent,South Australia,Government,Male,Secondary,Indigenous,1430.5
+Full-time equivalent,South Australia,Government,Male,Secondary,Non-Indigenous,30307.4
+Full-time equivalent,South Australia,Independent,Female,Primary,Indigenous,178
+Full-time equivalent,South Australia,Independent,Female,Primary,Non-Indigenous,12153.8
+Full-time equivalent,South Australia,Independent,Female,Secondary,Indigenous,98.4
+Full-time equivalent,South Australia,Independent,Female,Secondary,Non-Indigenous,10049.4
+Full-time equivalent,South Australia,Independent,Male,Primary,Indigenous,161
+Full-time equivalent,South Australia,Independent,Male,Primary,Non-Indigenous,12148.1
+Full-time equivalent,South Australia,Independent,Male,Secondary,Indigenous,85
+Full-time equivalent,South Australia,Independent,Male,Secondary,Non-Indigenous,9958.7
+Full-time equivalent,Tasmania,Catholic,Female,Primary,Indigenous,176
+Full-time equivalent,Tasmania,Catholic,Female,Primary,Non-Indigenous,3620
+Full-time equivalent,Tasmania,Catholic,Female,Secondary,Indigenous,130
+Full-time equivalent,Tasmania,Catholic,Female,Secondary,Non-Indigenous,3563.4
+Full-time equivalent,Tasmania,Catholic,Male,Primary,Indigenous,180
+Full-time equivalent,Tasmania,Catholic,Male,Primary,Non-Indigenous,3519.8
+Full-time equivalent,Tasmania,Catholic,Male,Secondary,Indigenous,114
+Full-time equivalent,Tasmania,Catholic,Male,Secondary,Non-Indigenous,3160.6
+Full-time equivalent,Tasmania,Government,Female,Primary,Indigenous,1254
+Full-time equivalent,Tasmania,Government,Female,Primary,Non-Indigenous,14343.2
+Full-time equivalent,Tasmania,Government,Female,Secondary,Indigenous,1053
+Full-time equivalent,Tasmania,Government,Female,Secondary,Non-Indigenous,11824
+Full-time equivalent,Tasmania,Government,Male,Primary,Indigenous,1359
+Full-time equivalent,Tasmania,Government,Male,Primary,Non-Indigenous,15536.4
+Full-time equivalent,Tasmania,Government,Male,Secondary,Indigenous,1057.5
+Full-time equivalent,Tasmania,Government,Male,Secondary,Non-Indigenous,12081.9
+Full-time equivalent,Tasmania,Independent,Female,Primary,Indigenous,44.9
+Full-time equivalent,Tasmania,Independent,Female,Primary,Non-Indigenous,1920.7
+Full-time equivalent,Tasmania,Independent,Female,Secondary,Indigenous,64.6
+Full-time equivalent,Tasmania,Independent,Female,Secondary,Non-Indigenous,2476.4
+Full-time equivalent,Tasmania,Independent,Male,Primary,Indigenous,58
+Full-time equivalent,Tasmania,Independent,Male,Primary,Non-Indigenous,1910.8
+Full-time equivalent,Tasmania,Independent,Male,Secondary,Indigenous,32
+Full-time equivalent,Tasmania,Independent,Male,Secondary,Non-Indigenous,2571.4
+Full-time equivalent,Victoria,Catholic,Female,Primary,Indigenous,250
+Full-time equivalent,Victoria,Catholic,Female,Primary,Non-Indigenous,50190.7
+Full-time equivalent,Victoria,Catholic,Female,Secondary,Indigenous,200
+Full-time equivalent,Victoria,Catholic,Female,Secondary,Non-Indigenous,45492.2
+Full-time equivalent,Victoria,Catholic,Male,Primary,Indigenous,213
+Full-time equivalent,Victoria,Catholic,Male,Primary,Non-Indigenous,51259.4
+Full-time equivalent,Victoria,Catholic,Male,Secondary,Indigenous,210
+Full-time equivalent,Victoria,Catholic,Male,Secondary,Non-Indigenous,42737.8
+Full-time equivalent,Victoria,Government,Female,Primary,Indigenous,2614.3
+Full-time equivalent,Victoria,Government,Female,Primary,Non-Indigenous,147770
+Full-time equivalent,Victoria,Government,Female,Secondary,Indigenous,1706.5
+Full-time equivalent,Victoria,Government,Female,Secondary,Non-Indigenous,108194.6
+Full-time equivalent,Victoria,Government,Male,Primary,Indigenous,2656.4
+Full-time equivalent,Victoria,Government,Male,Primary,Non-Indigenous,159556.4
+Full-time equivalent,Victoria,Government,Male,Secondary,Indigenous,1633.7
+Full-time equivalent,Victoria,Government,Male,Secondary,Non-Indigenous,115095.2
+Full-time equivalent,Victoria,Independent,Female,Primary,Indigenous,75
+Full-time equivalent,Victoria,Independent,Female,Primary,Non-Indigenous,24081.3
+Full-time equivalent,Victoria,Independent,Female,Secondary,Indigenous,141
+Full-time equivalent,Victoria,Independent,Female,Secondary,Non-Indigenous,37474.3
+Full-time equivalent,Victoria,Independent,Male,Primary,Indigenous,53
+Full-time equivalent,Victoria,Independent,Male,Primary,Non-Indigenous,23013.2
+Full-time equivalent,Victoria,Independent,Male,Secondary,Indigenous,106
+Full-time equivalent,Victoria,Independent,Male,Secondary,Non-Indigenous,36127.7
+Full-time equivalent,Western Australia,Catholic,Female,Primary,Indigenous,795
+Full-time equivalent,Western Australia,Catholic,Female,Primary,Non-Indigenous,19108
+Full-time equivalent,Western Australia,Catholic,Female,Secondary,Indigenous,350
+Full-time equivalent,Western Australia,Catholic,Female,Secondary,Non-Indigenous,13098
+Full-time equivalent,Western Australia,Catholic,Male,Primary,Indigenous,756
+Full-time equivalent,Western Australia,Catholic,Male,Primary,Non-Indigenous,19261.2
+Full-time equivalent,Western Australia,Catholic,Male,Secondary,Indigenous,337
+Full-time equivalent,Western Australia,Catholic,Male,Secondary,Non-Indigenous,12678
+Full-time equivalent,Western Australia,Government,Female,Primary,Indigenous,6783
+Full-time equivalent,Western Australia,Government,Female,Primary,Non-Indigenous,70347
+Full-time equivalent,Western Australia,Government,Female,Secondary,Indigenous,2508.9
+Full-time equivalent,Western Australia,Government,Female,Secondary,Non-Indigenous,33139.3
+Full-time equivalent,Western Australia,Government,Male,Primary,Indigenous,7108
+Full-time equivalent,Western Australia,Government,Male,Primary,Non-Indigenous,75814
+Full-time equivalent,Western Australia,Government,Male,Secondary,Indigenous,2794.1
+Full-time equivalent,Western Australia,Government,Male,Secondary,Non-Indigenous,35914.5
+Full-time equivalent,Western Australia,Independent,Female,Primary,Indigenous,351.4
+Full-time equivalent,Western Australia,Independent,Female,Primary,Non-Indigenous,14475.8
+Full-time equivalent,Western Australia,Independent,Female,Secondary,Indigenous,326
+Full-time equivalent,Western Australia,Independent,Female,Secondary,Non-Indigenous,13995.1
+Full-time equivalent,Western Australia,Independent,Male,Primary,Indigenous,359
+Full-time equivalent,Western Australia,Independent,Male,Primary,Non-Indigenous,14751.2
+Full-time equivalent,Western Australia,Independent,Male,Secondary,Indigenous,359
+Full-time equivalent,Western Australia,Independent,Male,Secondary,Non-Indigenous,13723.8
+Full-time students,Australian Capital Territory,Catholic,Female,Primary,Indigenous,60
+Full-time students,Australian Capital Territory,Catholic,Female,Primary,Non-Indigenous,4198
+Full-time students,Australian Capital Territory,Catholic,Female,Secondary,Indigenous,61
+Full-time students,Australian Capital Territory,Catholic,Female,Secondary,Non-Indigenous,4203
+Full-time students,Australian Capital Territory,Catholic,Male,Primary,Indigenous,54
+Full-time students,Australian Capital Territory,Catholic,Male,Primary,Non-Indigenous,4475
+Full-time students,Australian Capital Territory,Catholic,Male,Secondary,Indigenous,53
+Full-time students,Australian Capital Territory,Catholic,Male,Secondary,Non-Indigenous,4280
+Full-time students,Australian Capital Territory,Government,Female,Primary,Indigenous,322
+Full-time students,Australian Capital Territory,Government,Female,Primary,Non-Indigenous,8853
+Full-time students,Australian Capital Territory,Government,Female,Secondary,Indigenous,206
+Full-time students,Australian Capital Territory,Government,Female,Secondary,Non-Indigenous,7475
+Full-time students,Australian Capital Territory,Government,Male,Primary,Indigenous,330
+Full-time students,Australian Capital Territory,Government,Male,Primary,Non-Indigenous,9410
+Full-time students,Australian Capital Territory,Government,Male,Secondary,Indigenous,222
+Full-time students,Australian Capital Territory,Government,Male,Secondary,Non-Indigenous,7666
+Full-time students,Australian Capital Territory,Independent,Female,Primary,Indigenous,10
+Full-time students,Australian Capital Territory,Independent,Female,Primary,Non-Indigenous,1908
+Full-time students,Australian Capital Territory,Independent,Female,Secondary,Indigenous,11
+Full-time students,Australian Capital Territory,Independent,Female,Secondary,Non-Indigenous,2329
+Full-time students,Australian Capital Territory,Independent,Male,Primary,Indigenous,11
+Full-time students,Australian Capital Territory,Independent,Male,Primary,Non-Indigenous,1878
+Full-time students,Australian Capital Territory,Independent,Male,Secondary,Indigenous,13
+Full-time students,Australian Capital Territory,Independent,Male,Secondary,Non-Indigenous,2267
+Full-time students,New South Wales,Catholic,Female,Primary,Indigenous,1471
+Full-time students,New South Wales,Catholic,Female,Primary,Non-Indigenous,59708
+Full-time students,New South Wales,Catholic,Female,Secondary,Indigenous,998
+Full-time students,New South Wales,Catholic,Female,Secondary,Non-Indigenous,57477
+Full-time students,New South Wales,Catholic,Male,Primary,Indigenous,1444
+Full-time students,New South Wales,Catholic,Male,Primary,Non-Indigenous,61591
+Full-time students,New South Wales,Catholic,Male,Secondary,Indigenous,1016
+Full-time students,New South Wales,Catholic,Male,Secondary,Non-Indigenous,57252
+Full-time students,New South Wales,Government,Female,Primary,Indigenous,12379
+Full-time students,New South Wales,Government,Female,Primary,Non-Indigenous,196643
+Full-time students,New South Wales,Government,Female,Secondary,Indigenous,8440
+Full-time students,New South Wales,Government,Female,Secondary,Non-Indigenous,143766
+Full-time students,New South Wales,Government,Male,Primary,Indigenous,13234
+Full-time students,New South Wales,Government,Male,Primary,Non-Indigenous,209804
+Full-time students,New South Wales,Government,Male,Secondary,Indigenous,8716
+Full-time students,New South Wales,Government,Male,Secondary,Non-Indigenous,148079
+Full-time students,New South Wales,Independent,Female,Primary,Indigenous,358
+Full-time students,New South Wales,Independent,Female,Primary,Non-Indigenous,31255
+Full-time students,New South Wales,Independent,Female,Secondary,Indigenous,508
+Full-time students,New South Wales,Independent,Female,Secondary,Non-Indigenous,35173
+Full-time students,New South Wales,Independent,Male,Primary,Indigenous,341
+Full-time students,New South Wales,Independent,Male,Primary,Non-Indigenous,33052
+Full-time students,New South Wales,Independent,Male,Secondary,Indigenous,351
+Full-time students,New South Wales,Independent,Male,Secondary,Non-Indigenous,36033
+Full-time students,Northern Territory,Catholic,Female,Primary,Indigenous,488
+Full-time students,Northern Territory,Catholic,Female,Primary,Non-Indigenous,930
+Full-time students,Northern Territory,Catholic,Female,Secondary,Indigenous,319
+Full-time students,Northern Territory,Catholic,Female,Secondary,Non-Indigenous,634
+Full-time students,Northern Territory,Catholic,Male,Primary,Indigenous,470
+Full-time students,Northern Territory,Catholic,Male,Primary,Non-Indigenous,901
+Full-time students,Northern Territory,Catholic,Male,Secondary,Indigenous,331
+Full-time students,Northern Territory,Catholic,Male,Secondary,Non-Indigenous,672
+Full-time students,Northern Territory,Government,Female,Primary,Indigenous,4316
+Full-time students,Northern Territory,Government,Female,Primary,Non-Indigenous,4625
+Full-time students,Northern Territory,Government,Female,Secondary,Indigenous,1990
+Full-time students,Northern Territory,Government,Female,Secondary,Non-Indigenous,3072
+Full-time students,Northern Territory,Government,Male,Primary,Indigenous,4561
+Full-time students,Northern Territory,Government,Male,Primary,Non-Indigenous,4977
+Full-time students,Northern Territory,Government,Male,Secondary,Indigenous,2168
+Full-time students,Northern Territory,Government,Male,Secondary,Non-Indigenous,3375
+Full-time students,Northern Territory,Independent,Female,Primary,Indigenous,174
+Full-time students,Northern Territory,Independent,Female,Primary,Non-Indigenous,1018
+Full-time students,Northern Territory,Independent,Female,Secondary,Indigenous,477
+Full-time students,Northern Territory,Independent,Female,Secondary,Non-Indigenous,1120
+Full-time students,Northern Territory,Independent,Male,Primary,Indigenous,187
+Full-time students,Northern Territory,Independent,Male,Primary,Non-Indigenous,970
+Full-time students,Northern Territory,Independent,Male,Secondary,Indigenous,496
+Full-time students,Northern Territory,Independent,Male,Secondary,Non-Indigenous,1060
+Full-time students,Queensland,Catholic,Female,Primary,Indigenous,1081
+Full-time students,Queensland,Catholic,Female,Primary,Non-Indigenous,36590
+Full-time students,Queensland,Catholic,Female,Secondary,Indigenous,927
+Full-time students,Queensland,Catholic,Female,Secondary,Non-Indigenous,26083
+Full-time students,Queensland,Catholic,Male,Primary,Indigenous,1115
+Full-time students,Queensland,Catholic,Male,Primary,Non-Indigenous,38706
+Full-time students,Queensland,Catholic,Male,Secondary,Indigenous,1054
+Full-time students,Queensland,Catholic,Male,Secondary,Non-Indigenous,26171
+Full-time students,Queensland,Government,Female,Primary,Indigenous,13385
+Full-time students,Queensland,Government,Female,Primary,Non-Indigenous,137057
+Full-time students,Queensland,Government,Female,Secondary,Indigenous,6391
+Full-time students,Queensland,Government,Female,Secondary,Non-Indigenous,79048
+Full-time students,Queensland,Government,Male,Primary,Indigenous,14006
+Full-time students,Queensland,Government,Male,Primary,Non-Indigenous,146947
+Full-time students,Queensland,Government,Male,Secondary,Indigenous,6593
+Full-time students,Queensland,Government,Male,Secondary,Non-Indigenous,82371
+Full-time students,Queensland,Independent,Female,Primary,Indigenous,619
+Full-time students,Queensland,Independent,Female,Primary,Non-Indigenous,26181
+Full-time students,Queensland,Independent,Female,Secondary,Indigenous,1025
+Full-time students,Queensland,Independent,Female,Secondary,Non-Indigenous,25998
+Full-time students,Queensland,Independent,Male,Primary,Indigenous,623
+Full-time students,Queensland,Independent,Male,Primary,Non-Indigenous,26528
+Full-time students,Queensland,Independent,Male,Secondary,Indigenous,896
+Full-time students,Queensland,Independent,Male,Secondary,Non-Indigenous,25561
+Full-time students,South Australia,Catholic,Female,Primary,Indigenous,149
+Full-time students,South Australia,Catholic,Female,Primary,Non-Indigenous,13692
+Full-time students,South Australia,Catholic,Female,Secondary,Indigenous,92
+Full-time students,South Australia,Catholic,Female,Secondary,Non-Indigenous,9830
+Full-time students,South Australia,Catholic,Male,Primary,Indigenous,181
+Full-time students,South Australia,Catholic,Male,Primary,Non-Indigenous,13990
+Full-time students,South Australia,Catholic,Male,Secondary,Indigenous,107
+Full-time students,South Australia,Catholic,Male,Secondary,Non-Indigenous,9154
+Full-time students,South Australia,Government,Female,Primary,Indigenous,2714
+Full-time students,South Australia,Government,Female,Primary,Non-Indigenous,47214
+Full-time students,South Australia,Government,Female,Secondary,Indigenous,1379
+Full-time students,South Australia,Government,Female,Secondary,Non-Indigenous,27571
+Full-time students,South Australia,Government,Male,Primary,Indigenous,2834
+Full-time students,South Australia,Government,Male,Primary,Non-Indigenous,50744
+Full-time students,South Australia,Government,Male,Secondary,Indigenous,1410
+Full-time students,South Australia,Government,Male,Secondary,Non-Indigenous,29300
+Full-time students,South Australia,Independent,Female,Primary,Indigenous,178
+Full-time students,South Australia,Independent,Female,Primary,Non-Indigenous,12135
+Full-time students,South Australia,Independent,Female,Secondary,Indigenous,96
+Full-time students,South Australia,Independent,Female,Secondary,Non-Indigenous,9980
+Full-time students,South Australia,Independent,Male,Primary,Indigenous,161
+Full-time students,South Australia,Independent,Male,Primary,Non-Indigenous,12127
+Full-time students,South Australia,Independent,Male,Secondary,Indigenous,85
+Full-time students,South Australia,Independent,Male,Secondary,Non-Indigenous,9900
+Full-time students,Tasmania,Catholic,Female,Primary,Indigenous,176
+Full-time students,Tasmania,Catholic,Female,Primary,Non-Indigenous,3620
+Full-time students,Tasmania,Catholic,Female,Secondary,Indigenous,130
+Full-time students,Tasmania,Catholic,Female,Secondary,Non-Indigenous,3562
+Full-time students,Tasmania,Catholic,Male,Primary,Indigenous,180
+Full-time students,Tasmania,Catholic,Male,Primary,Non-Indigenous,3517
+Full-time students,Tasmania,Catholic,Male,Secondary,Indigenous,114
+Full-time students,Tasmania,Catholic,Male,Secondary,Non-Indigenous,3159
+Full-time students,Tasmania,Government,Female,Primary,Indigenous,1254
+Full-time students,Tasmania,Government,Female,Primary,Non-Indigenous,14342
+Full-time students,Tasmania,Government,Female,Secondary,Indigenous,998
+Full-time students,Tasmania,Government,Female,Secondary,Non-Indigenous,11168
+Full-time students,Tasmania,Government,Male,Primary,Indigenous,1359
+Full-time students,Tasmania,Government,Male,Primary,Non-Indigenous,15530
+Full-time students,Tasmania,Government,Male,Secondary,Indigenous,1031
+Full-time students,Tasmania,Government,Male,Secondary,Non-Indigenous,11649
+Full-time students,Tasmania,Independent,Female,Primary,Indigenous,44
+Full-time students,Tasmania,Independent,Female,Primary,Non-Indigenous,1917
+Full-time students,Tasmania,Independent,Female,Secondary,Indigenous,64
+Full-time students,Tasmania,Independent,Female,Secondary,Non-Indigenous,2472
+Full-time students,Tasmania,Independent,Male,Primary,Indigenous,58
+Full-time students,Tasmania,Independent,Male,Primary,Non-Indigenous,1901
+Full-time students,Tasmania,Independent,Male,Secondary,Indigenous,32
+Full-time students,Tasmania,Independent,Male,Secondary,Non-Indigenous,2564
+Full-time students,Victoria,Catholic,Female,Primary,Indigenous,250
+Full-time students,Victoria,Catholic,Female,Primary,Non-Indigenous,50177
+Full-time students,Victoria,Catholic,Female,Secondary,Indigenous,200
+Full-time students,Victoria,Catholic,Female,Secondary,Non-Indigenous,45480
+Full-time students,Victoria,Catholic,Male,Primary,Indigenous,213
+Full-time students,Victoria,Catholic,Male,Primary,Non-Indigenous,51187
+Full-time students,Victoria,Catholic,Male,Secondary,Indigenous,210
+Full-time students,Victoria,Catholic,Male,Secondary,Non-Indigenous,42725
+Full-time students,Victoria,Government,Female,Primary,Indigenous,2614
+Full-time students,Victoria,Government,Female,Primary,Non-Indigenous,147699
+Full-time students,Victoria,Government,Female,Secondary,Indigenous,1699
+Full-time students,Victoria,Government,Female,Secondary,Non-Indigenous,107445
+Full-time students,Victoria,Government,Male,Primary,Indigenous,2654
+Full-time students,Victoria,Government,Male,Primary,Non-Indigenous,159404
+Full-time students,Victoria,Government,Male,Secondary,Indigenous,1623
+Full-time students,Victoria,Government,Male,Secondary,Non-Indigenous,114456
+Full-time students,Victoria,Independent,Female,Primary,Indigenous,75
+Full-time students,Victoria,Independent,Female,Primary,Non-Indigenous,24049
+Full-time students,Victoria,Independent,Female,Secondary,Indigenous,141
+Full-time students,Victoria,Independent,Female,Secondary,Non-Indigenous,37444
+Full-time students,Victoria,Independent,Male,Primary,Indigenous,53
+Full-time students,Victoria,Independent,Male,Primary,Non-Indigenous,22972
+Full-time students,Victoria,Independent,Male,Secondary,Indigenous,106
+Full-time students,Victoria,Independent,Male,Secondary,Non-Indigenous,36099
+Full-time students,Western Australia,Catholic,Female,Primary,Indigenous,795
+Full-time students,Western Australia,Catholic,Female,Primary,Non-Indigenous,19108
+Full-time students,Western Australia,Catholic,Female,Secondary,Indigenous,350
+Full-time students,Western Australia,Catholic,Female,Secondary,Non-Indigenous,13098
+Full-time students,Western Australia,Catholic,Male,Primary,Indigenous,756
+Full-time students,Western Australia,Catholic,Male,Primary,Non-Indigenous,19259
+Full-time students,Western Australia,Catholic,Male,Secondary,Indigenous,337
+Full-time students,Western Australia,Catholic,Male,Secondary,Non-Indigenous,12678
+Full-time students,Western Australia,Government,Female,Primary,Indigenous,6783
+Full-time students,Western Australia,Government,Female,Primary,Non-Indigenous,70347
+Full-time students,Western Australia,Government,Female,Secondary,Indigenous,2503
+Full-time students,Western Australia,Government,Female,Secondary,Non-Indigenous,32834
+Full-time students,Western Australia,Government,Male,Primary,Indigenous,7108
+Full-time students,Western Australia,Government,Male,Primary,Non-Indigenous,75814
+Full-time students,Western Australia,Government,Male,Secondary,Indigenous,2790
+Full-time students,Western Australia,Government,Male,Secondary,Non-Indigenous,35660
+Full-time students,Western Australia,Independent,Female,Primary,Indigenous,349
+Full-time students,Western Australia,Independent,Female,Primary,Non-Indigenous,14394
+Full-time students,Western Australia,Independent,Female,Secondary,Indigenous,326
+Full-time students,Western Australia,Independent,Female,Secondary,Non-Indigenous,13993
+Full-time students,Western Australia,Independent,Male,Primary,Indigenous,359
+Full-time students,Western Australia,Independent,Male,Primary,Non-Indigenous,14647
+Full-time students,Western Australia,Independent,Male,Secondary,Indigenous,359
+Full-time students,Western Australia,Independent,Male,Secondary,Non-Indigenous,13722
+Part-time students,Australian Capital Territory,Catholic,Female,Primary,Indigenous,0
+Part-time students,Australian Capital Territory,Catholic,Female,Primary,Non-Indigenous,0
+Part-time students,Australian Capital Territory,Catholic,Female,Secondary,Indigenous,0
+Part-time students,Australian Capital Territory,Catholic,Female,Secondary,Non-Indigenous,4
+Part-time students,Australian Capital Territory,Catholic,Male,Primary,Indigenous,0
+Part-time students,Australian Capital Territory,Catholic,Male,Primary,Non-Indigenous,0
+Part-time students,Australian Capital Territory,Catholic,Male,Secondary,Indigenous,0
+Part-time students,Australian Capital Territory,Catholic,Male,Secondary,Non-Indigenous,0
+Part-time students,Australian Capital Territory,Government,Female,Primary,Indigenous,0
+Part-time students,Australian Capital Territory,Government,Female,Primary,Non-Indigenous,4
+Part-time students,Australian Capital Territory,Government,Female,Secondary,Indigenous,0
+Part-time students,Australian Capital Territory,Government,Female,Secondary,Non-Indigenous,3
+Part-time students,Australian Capital Territory,Government,Male,Primary,Indigenous,0
+Part-time students,Australian Capital Territory,Government,Male,Primary,Non-Indigenous,4
+Part-time students,Australian Capital Territory,Government,Male,Secondary,Indigenous,0
+Part-time students,Australian Capital Territory,Government,Male,Secondary,Non-Indigenous,3
+Part-time students,Australian Capital Territory,Independent,Female,Primary,Indigenous,0
+Part-time students,Australian Capital Territory,Independent,Female,Primary,Non-Indigenous,32
+Part-time students,Australian Capital Territory,Independent,Female,Secondary,Indigenous,0
+Part-time students,Australian Capital Territory,Independent,Female,Secondary,Non-Indigenous,0
+Part-time students,Australian Capital Territory,Independent,Male,Primary,Indigenous,0
+Part-time students,Australian Capital Territory,Independent,Male,Primary,Non-Indigenous,40
+Part-time students,Australian Capital Territory,Independent,Male,Secondary,Indigenous,0
+Part-time students,Australian Capital Territory,Independent,Male,Secondary,Non-Indigenous,8
+Part-time students,New South Wales,Catholic,Female,Primary,Indigenous,0
+Part-time students,New South Wales,Catholic,Female,Primary,Non-Indigenous,3
+Part-time students,New South Wales,Catholic,Female,Secondary,Indigenous,0
+Part-time students,New South Wales,Catholic,Female,Secondary,Non-Indigenous,41
+Part-time students,New South Wales,Catholic,Male,Primary,Indigenous,0
+Part-time students,New South Wales,Catholic,Male,Primary,Non-Indigenous,5
+Part-time students,New South Wales,Catholic,Male,Secondary,Indigenous,0
+Part-time students,New South Wales,Catholic,Male,Secondary,Non-Indigenous,19
+Part-time students,New South Wales,Government,Female,Primary,Indigenous,0
+Part-time students,New South Wales,Government,Female,Primary,Non-Indigenous,0
+Part-time students,New South Wales,Government,Female,Secondary,Indigenous,87
+Part-time students,New South Wales,Government,Female,Secondary,Non-Indigenous,1002
+Part-time students,New South Wales,Government,Male,Primary,Indigenous,0
+Part-time students,New South Wales,Government,Male,Primary,Non-Indigenous,0
+Part-time students,New South Wales,Government,Male,Secondary,Indigenous,59
+Part-time students,New South Wales,Government,Male,Secondary,Non-Indigenous,808
+Part-time students,New South Wales,Independent,Female,Primary,Indigenous,0
+Part-time students,New South Wales,Independent,Female,Primary,Non-Indigenous,17
+Part-time students,New South Wales,Independent,Female,Secondary,Indigenous,40
+Part-time students,New South Wales,Independent,Female,Secondary,Non-Indigenous,104
+Part-time students,New South Wales,Independent,Male,Primary,Indigenous,0
+Part-time students,New South Wales,Independent,Male,Primary,Non-Indigenous,30
+Part-time students,New South Wales,Independent,Male,Secondary,Indigenous,27
+Part-time students,New South Wales,Independent,Male,Secondary,Non-Indigenous,104
+Part-time students,Northern Territory,Catholic,Female,Primary,Indigenous,0
+Part-time students,Northern Territory,Catholic,Female,Primary,Non-Indigenous,0
+Part-time students,Northern Territory,Catholic,Female,Secondary,Indigenous,0
+Part-time students,Northern Territory,Catholic,Female,Secondary,Non-Indigenous,0
+Part-time students,Northern Territory,Catholic,Male,Primary,Indigenous,0
+Part-time students,Northern Territory,Catholic,Male,Primary,Non-Indigenous,0
+Part-time students,Northern Territory,Catholic,Male,Secondary,Indigenous,0
+Part-time students,Northern Territory,Catholic,Male,Secondary,Non-Indigenous,0
+Part-time students,Northern Territory,Government,Female,Primary,Indigenous,3
+Part-time students,Northern Territory,Government,Female,Primary,Non-Indigenous,0
+Part-time students,Northern Territory,Government,Female,Secondary,Indigenous,17
+Part-time students,Northern Territory,Government,Female,Secondary,Non-Indigenous,5
+Part-time students,Northern Territory,Government,Male,Primary,Indigenous,0
+Part-time students,Northern Territory,Government,Male,Primary,Non-Indigenous,0
+Part-time students,Northern Territory,Government,Male,Secondary,Indigenous,12
+Part-time students,Northern Territory,Government,Male,Secondary,Non-Indigenous,8
+Part-time students,Northern Territory,Independent,Female,Primary,Indigenous,0
+Part-time students,Northern Territory,Independent,Female,Primary,Non-Indigenous,0
+Part-time students,Northern Territory,Independent,Female,Secondary,Indigenous,6
+Part-time students,Northern Territory,Independent,Female,Secondary,Non-Indigenous,4
+Part-time students,Northern Territory,Independent,Male,Primary,Indigenous,0
+Part-time students,Northern Territory,Independent,Male,Primary,Non-Indigenous,0
+Part-time students,Northern Territory,Independent,Male,Secondary,Indigenous,5
+Part-time students,Northern Territory,Independent,Male,Secondary,Non-Indigenous,0
+Part-time students,Queensland,Catholic,Female,Primary,Indigenous,0
+Part-time students,Queensland,Catholic,Female,Primary,Non-Indigenous,30
+Part-time students,Queensland,Catholic,Female,Secondary,Indigenous,5
+Part-time students,Queensland,Catholic,Female,Secondary,Non-Indigenous,28
+Part-time students,Queensland,Catholic,Male,Primary,Indigenous,3
+Part-time students,Queensland,Catholic,Male,Primary,Non-Indigenous,54
+Part-time students,Queensland,Catholic,Male,Secondary,Indigenous,0
+Part-time students,Queensland,Catholic,Male,Secondary,Non-Indigenous,20
+Part-time students,Queensland,Government,Female,Primary,Indigenous,98
+Part-time students,Queensland,Government,Female,Primary,Non-Indigenous,839
+Part-time students,Queensland,Government,Female,Secondary,Indigenous,106
+Part-time students,Queensland,Government,Female,Secondary,Non-Indigenous,1559
+Part-time students,Queensland,Government,Male,Primary,Indigenous,179
+Part-time students,Queensland,Government,Male,Primary,Non-Indigenous,2045
+Part-time students,Queensland,Government,Male,Secondary,Indigenous,99
+Part-time students,Queensland,Government,Male,Secondary,Non-Indigenous,1391
+Part-time students,Queensland,Independent,Female,Primary,Indigenous,0
+Part-time students,Queensland,Independent,Female,Primary,Non-Indigenous,18
+Part-time students,Queensland,Independent,Female,Secondary,Indigenous,0
+Part-time students,Queensland,Independent,Female,Secondary,Non-Indigenous,34
+Part-time students,Queensland,Independent,Male,Primary,Indigenous,0
+Part-time students,Queensland,Independent,Male,Primary,Non-Indigenous,84
+Part-time students,Queensland,Independent,Male,Secondary,Indigenous,0
+Part-time students,Queensland,Independent,Male,Secondary,Non-Indigenous,69
+Part-time students,South Australia,Catholic,Female,Primary,Indigenous,0
+Part-time students,South Australia,Catholic,Female,Primary,Non-Indigenous,0
+Part-time students,South Australia,Catholic,Female,Secondary,Indigenous,7
+Part-time students,South Australia,Catholic,Female,Secondary,Non-Indigenous,94
+Part-time students,South Australia,Catholic,Male,Primary,Indigenous,0
+Part-time students,South Australia,Catholic,Male,Primary,Non-Indigenous,9
+Part-time students,South Australia,Catholic,Male,Secondary,Indigenous,3
+Part-time students,South Australia,Catholic,Male,Secondary,Non-Indigenous,53
+Part-time students,South Australia,Government,Female,Primary,Indigenous,0
+Part-time students,South Australia,Government,Female,Primary,Non-Indigenous,5
+Part-time students,South Australia,Government,Female,Secondary,Indigenous,56
+Part-time students,South Australia,Government,Female,Secondary,Non-Indigenous,3782
+Part-time students,South Australia,Government,Male,Primary,Indigenous,0
+Part-time students,South Australia,Government,Male,Primary,Non-Indigenous,18
+Part-time students,South Australia,Government,Male,Secondary,Indigenous,32
+Part-time students,South Australia,Government,Male,Secondary,Non-Indigenous,2265
+Part-time students,South Australia,Independent,Female,Primary,Indigenous,0
+Part-time students,South Australia,Independent,Female,Primary,Non-Indigenous,24
+Part-time students,South Australia,Independent,Female,Secondary,Indigenous,3
+Part-time students,South Australia,Independent,Female,Secondary,Non-Indigenous,103
+Part-time students,South Australia,Independent,Male,Primary,Indigenous,0
+Part-time students,South Australia,Independent,Male,Primary,Non-Indigenous,26
+Part-time students,South Australia,Independent,Male,Secondary,Indigenous,0
+Part-time students,South Australia,Independent,Male,Secondary,Non-Indigenous,93
+Part-time students,Tasmania,Catholic,Female,Primary,Indigenous,0
+Part-time students,Tasmania,Catholic,Female,Primary,Non-Indigenous,0
+Part-time students,Tasmania,Catholic,Female,Secondary,Indigenous,0
+Part-time students,Tasmania,Catholic,Female,Secondary,Non-Indigenous,4
+Part-time students,Tasmania,Catholic,Male,Primary,Indigenous,0
+Part-time students,Tasmania,Catholic,Male,Primary,Non-Indigenous,4
+Part-time students,Tasmania,Catholic,Male,Secondary,Indigenous,0
+Part-time students,Tasmania,Catholic,Male,Secondary,Non-Indigenous,3
+Part-time students,Tasmania,Government,Female,Primary,Indigenous,0
+Part-time students,Tasmania,Government,Female,Primary,Non-Indigenous,3
+Part-time students,Tasmania,Government,Female,Secondary,Indigenous,92
+Part-time students,Tasmania,Government,Female,Secondary,Non-Indigenous,1199
+Part-time students,Tasmania,Government,Male,Primary,Indigenous,0
+Part-time students,Tasmania,Government,Male,Primary,Non-Indigenous,11
+Part-time students,Tasmania,Government,Male,Secondary,Indigenous,48
+Part-time students,Tasmania,Government,Male,Secondary,Non-Indigenous,804
+Part-time students,Tasmania,Independent,Female,Primary,Indigenous,4
+Part-time students,Tasmania,Independent,Female,Primary,Non-Indigenous,11
+Part-time students,Tasmania,Independent,Female,Secondary,Indigenous,3
+Part-time students,Tasmania,Independent,Female,Secondary,Non-Indigenous,12
+Part-time students,Tasmania,Independent,Male,Primary,Indigenous,0
+Part-time students,Tasmania,Independent,Male,Primary,Non-Indigenous,24
+Part-time students,Tasmania,Independent,Male,Secondary,Indigenous,0
+Part-time students,Tasmania,Independent,Male,Secondary,Non-Indigenous,19
+Part-time students,Victoria,Catholic,Female,Primary,Indigenous,0
+Part-time students,Victoria,Catholic,Female,Primary,Non-Indigenous,32
+Part-time students,Victoria,Catholic,Female,Secondary,Indigenous,0
+Part-time students,Victoria,Catholic,Female,Secondary,Non-Indigenous,20
+Part-time students,Victoria,Catholic,Male,Primary,Indigenous,0
+Part-time students,Victoria,Catholic,Male,Primary,Non-Indigenous,155
+Part-time students,Victoria,Catholic,Male,Secondary,Indigenous,0
+Part-time students,Victoria,Catholic,Male,Secondary,Non-Indigenous,22
+Part-time students,Victoria,Government,Female,Primary,Indigenous,0
+Part-time students,Victoria,Government,Female,Primary,Non-Indigenous,151
+Part-time students,Victoria,Government,Female,Secondary,Indigenous,13
+Part-time students,Victoria,Government,Female,Secondary,Non-Indigenous,1483
+Part-time students,Victoria,Government,Male,Primary,Indigenous,6
+Part-time students,Victoria,Government,Male,Primary,Non-Indigenous,309
+Part-time students,Victoria,Government,Male,Secondary,Indigenous,18
+Part-time students,Victoria,Government,Male,Secondary,Non-Indigenous,1187
+Part-time students,Victoria,Independent,Female,Primary,Indigenous,0
+Part-time students,Victoria,Independent,Female,Primary,Non-Indigenous,48
+Part-time students,Victoria,Independent,Female,Secondary,Indigenous,0
+Part-time students,Victoria,Independent,Female,Secondary,Non-Indigenous,55
+Part-time students,Victoria,Independent,Male,Primary,Indigenous,0
+Part-time students,Victoria,Independent,Male,Primary,Non-Indigenous,67
+Part-time students,Victoria,Independent,Male,Secondary,Indigenous,0
+Part-time students,Victoria,Independent,Male,Secondary,Non-Indigenous,58
+Part-time students,Western Australia,Catholic,Female,Primary,Indigenous,0
+Part-time students,Western Australia,Catholic,Female,Primary,Non-Indigenous,0
+Part-time students,Western Australia,Catholic,Female,Secondary,Indigenous,0
+Part-time students,Western Australia,Catholic,Female,Secondary,Non-Indigenous,0
+Part-time students,Western Australia,Catholic,Male,Primary,Indigenous,0
+Part-time students,Western Australia,Catholic,Male,Primary,Non-Indigenous,4
+Part-time students,Western Australia,Catholic,Male,Secondary,Indigenous,0
+Part-time students,Western Australia,Catholic,Male,Secondary,Non-Indigenous,0
+Part-time students,Western Australia,Government,Female,Primary,Indigenous,0
+Part-time students,Western Australia,Government,Female,Primary,Non-Indigenous,0
+Part-time students,Western Australia,Government,Female,Secondary,Indigenous,9
+Part-time students,Western Australia,Government,Female,Secondary,Non-Indigenous,1297
+Part-time students,Western Australia,Government,Male,Primary,Indigenous,0
+Part-time students,Western Australia,Government,Male,Primary,Non-Indigenous,0
+Part-time students,Western Australia,Government,Male,Secondary,Indigenous,8
+Part-time students,Western Australia,Government,Male,Secondary,Non-Indigenous,775
+Part-time students,Western Australia,Independent,Female,Primary,Indigenous,3
+Part-time students,Western Australia,Independent,Female,Primary,Non-Indigenous,128
+Part-time students,Western Australia,Independent,Female,Secondary,Indigenous,0
+Part-time students,Western Australia,Independent,Female,Secondary,Non-Indigenous,6
+Part-time students,Western Australia,Independent,Male,Primary,Indigenous,0
+Part-time students,Western Australia,Independent,Male,Primary,Non-Indigenous,160
+Part-time students,Western Australia,Independent,Male,Secondary,Indigenous,0
+Part-time students,Western Australia,Independent,Male,Secondary,Non-Indigenous,3
